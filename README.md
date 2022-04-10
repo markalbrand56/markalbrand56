@@ -2,6 +2,7 @@
 
 ## I'm a student of Computer Science at [UVG](https://www.uvg.edu.gt/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MarkAlbrand?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MarkAlbrand)
+
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markalbrand56)](https://github.com/markalbrand56/markalbrand56)
 
 <br />
