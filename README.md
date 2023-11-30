@@ -4,7 +4,7 @@
 [![Github Follow](https://img.shields.io/github/followers/markalbrand56?label=Follow&color=C9C9C9&style=for-the-badge&logo=github)](https://github.com/markalbrand56)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MarkAlbrand?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MarkAlbrand)
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markalbrand56)](https://github.com/markalbrand56/markalbrand56)
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markalbrand56&theme=radical)](https://github.com/markalbrand56/markalbrand56)
 
 - I'm a student, with a great desire of learning new things 📚
 - I'm liking a lot the path of CyberSecurity within Computer Science 🔎
