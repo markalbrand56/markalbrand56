@@ -40,7 +40,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markalbrand56&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markalbrand56&hide=jupyter%20notebook,css,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
