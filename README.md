@@ -1,52 +1,40 @@
-# markalbrand56
+# Hi! I'm Mark Albrand Mendoza 🚀
 
-## I'm a student of Computer Science at [UVG](https://www.uvg.edu.gt/)
-[![Github Follow](https://img.shields.io/github/followers/markalbrand56?label=Follow&color=C9C9C9&style=for-the-badge&logo=github)](https://github.com/markalbrand56)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MarkAlbrand?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MarkAlbrand)
+### Software Engineer | Computer Science Engineer
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markalbrand56&theme=radical)](https://github.com/markalbrand56/markalbrand56)
+I am a technology enthusiast with a strong focus on backend development, software architecture, and cybersecurity. Currently, I serve as **Software Engineer** for development projects.
 
-- I'm a student, with a great desire of learning new things 📚
-- I'm liking a lot the path of CyberSecurity within Computer Science 🔎
-- I'm learning mainly [Python](https://github.com/markalbrand56/Frequency-Distribution_Statistics), C and [Go](https://github.com/markalbrand56/Automated-Media-Ingest) 🛠
-- I love photography 📸
-- I'm a petrolhead 🚗
+---
 
-<br />
-<br />
+## 🛠️ About Me
+- 🛡️ I am deeply passionate about the **Cybersecurity** path within Computer Science.
+- ⛓️ Interested in decentralized technologies (Web3), Peer-to-Peer, and Smart Contracts.
+- 📸 Photography lover and a true **Petrolhead**.
 
-## Languages and tools
+---
 
-[<img align="left" alt="Go" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />]() 
+## 🚀 Tech Stack & Tools
 
-[<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]()
+### Languages
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-[<img align="left" alt="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]()
+### Databases & Others
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[<img align="left" alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />]()
+---
 
-[<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
+## 📊 Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markalbrand56&theme=radical&mode=weekly)](https://git.io/streak-stats)
 
-[<img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />]()
+---
 
-[<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]()
-
-
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markalbrand56&hide=jupyter%20notebook,css,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-<br />
-
-## Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/MarkAlbrand#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/MarkAlbrand#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mark-alexander-albrand-mendoza/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mark-alexander-albrand-mendoza/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mark.albrand56/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mark.albrand56/#gh-dark-mode-only)
+## 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-alexander-albrand-mendoza/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MarkAlbrand)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mark.albrand56/)
